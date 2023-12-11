@@ -1,0 +1,12 @@
+main {}
+main .goal {}
+main .goal h1 {}
+main .goal .goalContent {}
+main .goal .goalContent li {}/* 공통선택자 */
+main .goal .goalContent li:nth-child(1) {}
+main .goal .goalContent li:nth-child(3) {}
+main .strategy {}
+main .strategy h2 {}
+main .strategy .strategyContent {}
+main .strategy .strategyContent li {}
+main .strategy .strategyContent li p {}
